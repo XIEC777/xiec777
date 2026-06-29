@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.code-workspace
+
+# Build
+dist/
+
+# Auto-generated
+*.md
+!README.md
